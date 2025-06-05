@@ -5,4 +5,4 @@
 
 **And also tried new AI called [gamma](https://gamma.app/) instead microsoft powerpoint to create my presentation effectively.**
 
-**I upload my Dashboard screenshot, Used Raw Data, and my Summary Slides.**
+**I upload my Dashboard screenshot, Dataset, and my Summary Slides.**
